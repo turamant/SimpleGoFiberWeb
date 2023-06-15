@@ -1,2 +1,1 @@
-golang is coll language
-this main
+This is project with Fiber
