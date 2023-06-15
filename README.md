@@ -1,3 +1,1 @@
-How are you
-How are you
-How ketare you
+golang is coll language
